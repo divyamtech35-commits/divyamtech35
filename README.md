@@ -43,13 +43,58 @@ I’m Divyam, a B.Tech Computer Science student at Pandit Deendayal Energy Unive
 
 ## Toolkit
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | C, C++, Python, Java, JavaScript, SQL |
-| **Web & mobile** | React, React Native, Expo, HTML5, CSS3, Bootstrap |
-| **Backend & data** | Django, Node.js, Express.js, Next.js, MySQL, Appwrite, JWT authentication |
-| **Tools** | Git, GitHub, VS Code, Android Studio, ngrok |
-| **Foundations** | GIS, data structures, database management, object-oriented programming |
+### Languages
+
+<p>
+  <img src="assets/toolkit/c.png" alt="C" width="51" height="32">
+  <img src="assets/toolkit/cplusplus.png" alt="C++" width="70" height="32">
+  <img src="assets/toolkit/python.png" alt="Python" width="89" height="32">
+  <img src="assets/toolkit/java.png" alt="Java" width="71" height="32">
+  <img src="assets/toolkit/javascript.png" alt="JavaScript" width="109" height="32">
+  <img src="assets/toolkit/sql.png" alt="SQL" width="67" height="32">
+</p>
+
+### Web & mobile
+
+<p>
+  <img src="assets/toolkit/react.png" alt="React" width="79" height="32">
+  <img src="assets/toolkit/react-native.png" alt="React Native" width="125" height="32">
+  <img src="assets/toolkit/expo.png" alt="Expo" width="74" height="32">
+  <img src="assets/toolkit/html5.png" alt="HTML5" width="89" height="32">
+  <img src="assets/toolkit/css3.png" alt="CSS3" width="74" height="32">
+  <img src="assets/toolkit/bootstrap.png" alt="Bootstrap" width="107" height="32">
+</p>
+
+### Backend & data
+
+<p>
+  <img src="assets/toolkit/django.png" alt="Django" width="89" height="32">
+  <img src="assets/toolkit/nodejs.png" alt="Node.js" width="91" height="32">
+  <img src="assets/toolkit/express.png" alt="Express.js" width="104" height="32">
+  <img src="assets/toolkit/nextjs.png" alt="Next.js" width="87" height="32">
+  <img src="assets/toolkit/mysql.png" alt="MySQL" width="88" height="32">
+  <img src="assets/toolkit/appwrite.png" alt="Appwrite" width="103" height="32">
+  <img src="assets/toolkit/jsonwebtokens.png" alt="JWT authentication" width="168" height="32">
+</p>
+
+### Tools
+
+<p>
+  <img src="assets/toolkit/git.png" alt="Git" width="62" height="32">
+  <img src="assets/toolkit/github.png" alt="GitHub" width="89" height="32">
+  <img src="assets/toolkit/vscode.png" alt="VS Code" width="96" height="32">
+  <img src="assets/toolkit/androidstudio.png" alt="Android Studio" width="141" height="32">
+  <img src="assets/toolkit/ngrok.png" alt="ngrok" width="81" height="32">
+</p>
+
+### Foundations
+
+<p>
+  <img src="assets/toolkit/gis.png" alt="GIS" width="64" height="32">
+  <img src="assets/toolkit/data-structures.png" alt="Data structures" width="141" height="32">
+  <img src="assets/toolkit/database-management.png" alt="Database management" width="191" height="32">
+  <img src="assets/toolkit/oop.png" alt="Object-oriented programming" width="238" height="32">
+</p>
 
 ## Experience
 
